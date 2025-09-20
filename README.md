@@ -1,5 +1,7 @@
 # 🚀 AI-Powered Resume Screening App
 
+VISIT MY WEBSITE AT https://resumeo3.streamlit.app/
+
 Streamline hiring with an AI-assisted tool that quickly screens resumes against job descriptions. Built with **Streamlit** and optional **Gemini AI** for smarter parsing.
 
 ---

@@ -111,7 +111,7 @@ flowchart LR
     User[User / Recruiter] --> UI[Streamlit UI]
     UI -->|Upload JD & Resumes| UPLOAD[File Upload]
     UPLOAD --> DocParser[DocumentParser]
-    DocParser --> Parser[GeminiParser (AI) or Fallback Parsers]
+    DocParser --> Parser[GeminiParser (AI)\nor Fallback Parsers]
     Parser -->|Structured Data| JD[JobDescription]
     Parser -->|Structured Data| RES[ResumeData]
     JD & RES --> Analyzer[RelevanceAnalyzer (hard + semantic)]

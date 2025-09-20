@@ -1,0 +1,11 @@
+streamlit
+pandas
+numpy
+plotly
+google-generativeai
+PyPDF2
+pdfplumber
+PyMuPDF
+python-docx
+docx2txt
+textract

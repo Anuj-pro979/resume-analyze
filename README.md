@@ -111,18 +111,19 @@ flowchart LR
     User[User / Recruiter] --> UI[Streamlit UI]
     UI -->|Upload JD & Resumes| UPLOAD[File Upload]
     UPLOAD --> DocParser[DocumentParser]
-    DocParser --> Parser[GeminiParser (AI)\nor Fallback Parsers]
+    DocParser --> Parser[GeminiParser (AI) or Fallback Parsers]
     Parser -->|Structured Data| JD[JobDescription]
     Parser -->|Structured Data| RES[ResumeData]
-    JD & RES --> Analyzer[RelevanceAnalyzer\n(hard + semantic)]
+    JD & RES --> Analyzer[RelevanceAnalyzer (hard + semantic)]
     Analyzer --> Feedback[FeedbackGenerator]
     Feedback --> DB[DatabaseManager / session_state]
     DB --> UIResults[Results / Shortlist / Analytics]
 
-    Parser -->|optional| ExternalLibs[PDF/DOCX libs\n(PyPDF2, pdfplumber, PyMuPDF, docx2txt, textract)]
+    Parser -->|optional| ExternalLibs[PDF/DOCX libs (PyPDF2, pdfplumber, PyMuPDF, docx2txt, textract)]
     Parser -->|calls| Gemini[Gemini API]
     UIResults -->|download| Export[CSV / Reports]
     UI --> Demo[Demo Video Uploader / Player]
+
 ```
 
 > This diagram shows the core processing pipeline: upload → parse → analyze → feedback → store → display.

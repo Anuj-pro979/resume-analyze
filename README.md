@@ -94,3 +94,23 @@ MIT License — use freely.
 
 [![Your Video Title](https://img.youtube.com/vi/1M9ClAnGqJY/0.jpg)](https://www.youtube.com/watch?v=1M9ClAnGqJY)
 
+
+
+<img width="1920" height="1020" alt="Screenshot 2025-09-21 041653" src="https://github.com/user-attachments/assets/536212e3-de6c-4e97-a378-93d5388314c3" />
+                                    |
+                              SELECT  JD                   
+<img width="1902" height="1002" alt="Screenshot 2025-09-21 041722" src="https://github.com/user-attachments/assets/79cff9a9-4e45-46e9-bfbc-bdeb062cae91" />
+                                     |
+                       SELECT MULTIPLE RESUMES 
+<img width="1902" height="1002" alt="Screenshot 2025-09-21 041757" src="https://github.com/user-attachments/assets/1c6233c1-3f4c-437d-8c96-e9e879794857" />
+                                     |
+                        CLICK ON BUTOON TO PROCESS 
+<img width="1920" height="1020" alt="Screenshot 2025-09-21 041818" src="https://github.com/user-attachments/assets/8884535f-8ab5-45f6-8459-7a5f5adde3f3" />
+                                     |
+<img width="1920" height="1020" alt="Screenshot 2025-09-21 043045" src="https://github.com/user-attachments/assets/ee3776a2-4ece-465a-9208-9f5b1a626be6" />
+                                      |
+                           Analytics & Insights ON LEFT     
+<img width="1920" height="1020" alt="Screenshot 2025-09-21 043452" src="https://github.com/user-attachments/assets/4be24b8b-0f31-495f-8795-bfc5a57232cc" />
+                                      |
+                             Screening History
+<img width="1920" height="1020" alt="Screenshot 2025-09-21 043429" src="https://github.com/user-attachments/assets/726da454-a2e9-4394-9ac9-15cadc736468" />

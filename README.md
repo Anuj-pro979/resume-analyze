@@ -88,3 +88,9 @@ MIT License — use freely.
 ---
 
 💡 *Tip: Keep demo simple, show upload → scoring → results in action!*
+
+
+
+
+[![Your Video Title](https://img.youtube.com/vi/1M9ClAnGqJY/0.jpg)](https://www.youtube.com/watch?v=1M9ClAnGqJY)
+

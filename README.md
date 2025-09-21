@@ -49,10 +49,6 @@ streamlit run resume_screening_fixed.py
 
 ---
 
-## 🎥 Demo Video
-
-Add your demo at `assets/demo.mp4` or upload via app.
-
 ```python
 st.video("assets/demo.mp4")
 ```
@@ -75,18 +71,10 @@ flowchart LR
 
 ---
 
-## ✅ Perfect for Hackathons
 
 * Clear **workflow**
 * Clean **UI with Streamlit**
 * Scalable idea → add OCR, embeddings, or DB later
-
----
-
-## 📜 License
-
-MIT License — use freely.
-
 ---
 
 💡 *Tip: Keep demo simple, show upload → scoring → results in action!*

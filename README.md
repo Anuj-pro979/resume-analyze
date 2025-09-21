@@ -45,14 +45,6 @@ GEMINI_API_KEY = "your_api_key_here"
 streamlit run resume_screening_fixed.py
 ```
 
-👉 App opens at `http://localhost:8501`
-
----
-
-```python
-st.video("assets/demo.mp4")
-```
-
 ---
 
 ## 🔎 Architecture
